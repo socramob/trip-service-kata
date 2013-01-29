@@ -6,6 +6,8 @@
 /java/trip-service-kata/tomcat.*
 /java/trip-service-kata/.idea
 /java/trip-service-kata/*.iml
+/java/trip-service-kata/*.ipr
+/java/trip-service-kata/*.iws
 
 # C# Ignores
 _ReSharper.*/
